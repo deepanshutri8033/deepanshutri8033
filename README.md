@@ -14,7 +14,7 @@
   <a href="https://leetcode.com/deepanshutri8033">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=deepanshutri8033&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/ href="https://portfolio-eight-mauve-ksgcl8h7be.vercel.app/">
+  <img src="https://portfolio-eight-mauve-ksgcl8h7be.vercel.app/">
 </p>
 
 </div>
